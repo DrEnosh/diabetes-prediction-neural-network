@@ -35,12 +35,12 @@ The model is optimized using the Adam optimizer with a Mean Squared Error (MSE) 
 Run the generated python script directly from your terminal:
 
 ```bash
-python "neural_network(diabetes)).py"
+python neural_network_diabetes.py
 ```
 
 Or you can open the Jupyter Notebook version:
 ```bash
-jupyter notebook "Neural_network(Diabetes)).ipynb"
+jupyter notebook neural_network_diabetes.ipynb
 ```
 
 ## Visualizations
